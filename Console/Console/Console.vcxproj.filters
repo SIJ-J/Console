@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="lesson">
+      <UniqueIdentifier>{701640c0-cef4-46c7-93dd-7a63cb79bb22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제">
+      <UniqueIdentifier>{00b3fdc5-9c9b-4f9a-8745-d1fce28bd637}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\02_자료형">
+      <UniqueIdentifier>{6c6f9fbc-967b-4f03-a5c6-e9e21f66566a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\01_입출력">
+      <UniqueIdentifier>{be71f8cc-d00e-47fe-bce0-75b5d1df88d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\03_연산자 + 반복문">
+      <UniqueIdentifier>{d9de02ad-d9b8-4bb3-a677-d43262fad9fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\04_조건문">
+      <UniqueIdentifier>{9c6624f8-722c-4e9c-a72d-a2061950af52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\05_함수 + 변/상수 + 전처리기">
+      <UniqueIdentifier>{e2332306-9b1f-4485-99aa-cebc7e79e3f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\05.함수 + 변/상수">
+      <UniqueIdentifier>{ad0b7d1b-973b-4dd1-a3ca-4ff8e05cb24d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\03.연산자 반복문">
+      <UniqueIdentifier>{238d8172-8d28-4cca-9383-49bc61739389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\04.조건문">
+      <UniqueIdentifier>{2d88cd8d-d173-4937-8cce-7bd014fca649}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\02.컬러캐릭터 및 아이템">
+      <UniqueIdentifier>{952303df-53ed-4744-9e7c-0d4cdc421867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\01.입출력">
+      <UniqueIdentifier>{e2955b84-99b1-4185-8c2e-b0a519bd973e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\06_배열">
+      <UniqueIdentifier>{937b5261-2e68-4a0e-a0b1-551d8df71c4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\06.배열">
+      <UniqueIdentifier>{e93f0b99-365c-49e6-a8a1-cf996a819f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\07_문자열">
+      <UniqueIdentifier>{9e8f13ed-31a8-47e5-ac43-456c6c670e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\07.문자열">
+      <UniqueIdentifier>{25963b03-8ba2-4f28-bed3-56a27cd6872c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\08_사용자 정의 자료형">
+      <UniqueIdentifier>{c20d8f59-c6d0-4f9c-b234-dfc839a02712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\08.사용자 정의 자료형">
+      <UniqueIdentifier>{bab596c0-ffad-4cdc-8d3d-1d33987328f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\방학 과제">
+      <UniqueIdentifier>{5a4c73f0-4e35-42b6-a179-5c293df04a14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\09_포인터">
+      <UniqueIdentifier>{a34348f0-f854-4eee-8d29-0e6de14b6dba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\09.포인터">
+      <UniqueIdentifier>{ca1603bc-815f-47b9-9b0b-4c4fde07f609}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\10_클래스">
+      <UniqueIdentifier>{1667e643-3dfa-4fd3-aebc-def482d01100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="과제\10.클래스">
+      <UniqueIdentifier>{2bd47e05-ad87-4837-9817-79d33c73db96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\11_">
+      <UniqueIdentifier>{3f2acdec-7615-48e5-bad2-1ebf01d37ad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\12_가상함수">
+      <UniqueIdentifier>{18a415e9-60de-4a97-9f7d-f83e8f3fbb1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\13_">
+      <UniqueIdentifier>{6d95f0eb-0570-47b1-a40d-5dd18815779a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\14_STL">
+      <UniqueIdentifier>{92bd92f3-9390-468d-bd54-0935664e2f6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\15_리스트">
+      <UniqueIdentifier>{14ed61d9-98d2-4731-a240-c5609a5191d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="16_">
+      <UniqueIdentifier>{a92e1fd9-d3f6-42e7-9967-a5ea03007a16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{dbf31c9c-35ed-4f4f-a1d3-01d703102e85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="class">
+      <UniqueIdentifier>{8c7bac5c-9845-4320-aca5-c8a2a7e69949}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Example_01.cpp">
+      <Filter>lesson\01_입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_02.cpp">
+      <Filter>lesson\02_자료형</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework_0716.cpp">
+      <Filter>과제\01.입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework_0717.cpp">
+      <Filter>과제\02.컬러캐릭터 및 아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_03.cpp">
+      <Filter>lesson\03_연산자 + 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework_0718.cpp">
+      <Filter>과제\03.연산자 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="Example04.cpp">
+      <Filter>lesson\04_조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="Exampel04_B.cpp">
+      <Filter>lesson\04_조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework_0719.cpp">
+      <Filter>과제\04.조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="Example05.cpp">
+      <Filter>lesson\05_함수 + 변/상수 + 전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="Example05_B.cpp">
+      <Filter>lesson\05_함수 + 변/상수 + 전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0722_B.cpp">
+      <Filter>과제\05.함수 + 변/상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0722_A.cpp">
+      <Filter>과제\05.함수 + 변/상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Example06.cpp">
+      <Filter>lesson\06_배열</Filter>
+    </ClCompile>
+    <ClCompile Include="gugudan.cpp">
+      <Filter>lesson\06_배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0723.cpp">
+      <Filter>과제\06.배열</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>과제</Filter>
+    </ClCompile>
+    <ClCompile Include="charAndString.cpp">
+      <Filter>lesson\07_문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="baseball.cpp">
+      <Filter>과제\06.배열</Filter>
+    </ClCompile>
+    <ClCompile Include="ternaryOperator.cpp">
+      <Filter>lesson\07_문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="StringMethod.cpp">
+      <Filter>lesson\07_문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOver.cpp">
+      <Filter>lesson\07_문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0724_A.cpp">
+      <Filter>과제\07.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0724_B.cpp">
+      <Filter>과제\07.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="UserDefineTypes.cpp">
+      <Filter>lesson\08_사용자 정의 자료형</Filter>
+    </ClCompile>
+    <ClCompile Include="UserDefineTypes_EnumClass.cpp">
+      <Filter>lesson\08_사용자 정의 자료형</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.cpp">
+      <Filter>lesson\08_사용자 정의 자료형</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0725.cpp">
+      <Filter>과제\08.사용자 정의 자료형</Filter>
+    </ClCompile>
+    <ClCompile Include="Binggo.cpp">
+      <Filter>과제\방학 과제</Filter>
+    </ClCompile>
+    <ClCompile Include="SlidePuzzle.cpp">
+      <Filter>과제\방학 과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Binggo_02.cpp">
+      <Filter>과제\방학 과제</Filter>
+    </ClCompile>
+    <ClCompile Include="dupCheck.cpp">
+      <Filter>과제\방학 과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer.cpp">
+      <Filter>lesson\09_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayPointer.cpp">
+      <Filter>lesson\09_포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework0801.cpp">
+      <Filter>과제\09.포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Class01.cpp">
+      <Filter>lesson\10_클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Class02.cpp">
+      <Filter>lesson\10_클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Class03.cpp">
+      <Filter>lesson\10_클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Class04.cpp">
+      <Filter>lesson\10_클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="SlideClass.cpp">
+      <Filter>과제\10.클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Versus.cpp">
+      <Filter>과제\10.클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>lesson\11_</Filter>
+    </ClCompile>
+    <ClCompile Include="staticVariable.cpp">
+      <Filter>lesson\11_</Filter>
+    </ClCompile>
+    <ClCompile Include="copyDes.cpp">
+      <Filter>lesson\11_</Filter>
+    </ClCompile>
+    <ClCompile Include="lncheruabce.cpp">
+      <Filter>lesson\11_</Filter>
+    </ClCompile>
+    <ClCompile Include="main_01.cpp">
+      <Filter>lesson\11_</Filter>
+    </ClCompile>
+    <ClCompile Include="main02.cpp">
+      <Filter>lesson\12_가상함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Binding.cpp">
+      <Filter>lesson\12_가상함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Abstract.cpp">
+      <Filter>lesson\12_가상함수</Filter>
+    </ClCompile>
+    <ClCompile Include="main5.cpp">
+      <Filter>lesson\13_</Filter>
+    </ClCompile>
+    <ClCompile Include="Tempplate.cpp">
+      <Filter>lesson\13_</Filter>
+    </ClCompile>
+    <ClCompile Include="Tempplate01.cpp">
+      <Filter>lesson\13_</Filter>
+    </ClCompile>
+    <ClCompile Include="main7.cpp">
+      <Filter>lesson\14_STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector01.cpp">
+      <Filter>lesson\14_STL</Filter>
+    </ClCompile>
+    <ClCompile Include="main08.cpp">
+      <Filter>lesson\15_리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="Exa.cpp">
+      <Filter>lesson\15_리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="main10.cpp">
+      <Filter>16_</Filter>
+    </ClCompile>
+    <ClCompile Include="Bike.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage01.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Player01.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit01.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Vehicle.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="Warrior01.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="SLL.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursfveFunction.cpp">
+      <Filter>16_</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bike.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage01.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player01.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SLL.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Vehicle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit01.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Warrior01.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
