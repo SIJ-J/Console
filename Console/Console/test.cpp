@@ -7,6 +7,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 
+// Å×½ºÆ®
 
 int main()
 {
