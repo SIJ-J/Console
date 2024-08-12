@@ -8,6 +8,7 @@ using std::cin;
 using std::endl;
 
 // 테스트
+// 집에서 작업 이후.
 
 int main()
 {
