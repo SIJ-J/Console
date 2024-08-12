@@ -14,7 +14,7 @@ public:
 	std::string game;
 	std::string hobby;
 };
-
+// 가나달마ㅏ사마
 void main() {
 
 	/*
